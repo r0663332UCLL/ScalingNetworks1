@@ -1,11 +1,11 @@
 # Samenwerkings Contract
 
-### Betrokken Partijen
+## Betrokken Partijen
 
 * Elewout Vercaeren
 * Thomas Vermeersch
 
-### Wat houdt een goede samenwerking in?
+## Wat houdt een goede samenwerking in?
 
 * Aanwezigheid tijdens de les
 * Tijdig afwerken deelopdrachten
@@ -13,16 +13,14 @@
 * Opsplitsen van werk in taakjes, die dan eerlijk verdeeld kunnen worden
 * Verplicht gebruik kanban bord
 
-### Samenwerking
+## Samenwerking
 
 * Efficiënte communicatie
 * Goede takenverdeling
 * Op voorhand plannen
 * Goede planning
 
-### Communicatie
-
-Communiceren gebeurd via:
+## Communiceren gebeurd via:
 
 * Messenger
 * Telefoonish
@@ -30,7 +28,7 @@ Communiceren gebeurd via:
 * Email
 * Github
 
-### Handtekening
+## Handtekening
 
 Gelezen en goedgekeurd Elewout:
 <br><br><br><br><br>
