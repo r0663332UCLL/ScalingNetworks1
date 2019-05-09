@@ -25,6 +25,8 @@
 ## Handtekening
 
 Gelezen en goedgekeurd Elewout:
+
+ELEWOUT XX
 <br><br><br><br><br>
 Gelezen en goedgekeurd Thomas:
 
